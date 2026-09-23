@@ -21,14 +21,7 @@ This project is licensed under MIT.
      - Install python libusb1 `sudo pip install libusb1`
      - Install python enum backport `sudo pip install enum34`
 
- 2. Get the project [tarbal](https://github.com/2INRT/steamcontroller/archive/master.tar.gz) or clone it from github:
- 
-# Get from tarbal:
-
- 1. `wget https://github.com/2INRT/steamcontroller/archive/master.tar.gz`
- 2. `tar xf master.tar.gz`
- 3. `cd steamcontroller-master`
- 
+ 2. Get the project  clone it from github:
  
 # or clone it:
  1. `git clone https://github.com/2INRT/steamcontroller.git`
