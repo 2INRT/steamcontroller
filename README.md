@@ -11,19 +11,8 @@ The final purpose is to have support for custom mapping created with a stand-alo
 The initial target is *GNU/Linux*, but I'll welcome any contributor that want to port input generation for other OS (OSX, Windows, *BSD, Android/Linux, ...)
 
 This project is licensed under MIT.
-
-## Installation
-
- 1. Install dependencies
-   * for python 3.4+:
-     - Install python libusb1 `sudo pip install libusb1`
-   * for python 2.7+ (you might have to use pip2 for python2.7 or pip3 for python3):
-     - Install python libusb1 `sudo pip install libusb1`
-     - Install python enum backport `sudo pip install enum34`
-
- 2. Get the project  clone it from github:
  
-# or clone it:
+# clone it:
  1. `git clone https://github.com/2INRT/steamcontroller.git`
  2. `cd steamcontroller`
  3. Install python modules and scripts with `sudo python setup.py install`
